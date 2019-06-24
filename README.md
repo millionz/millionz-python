@@ -1,2 +1,5 @@
-# millionz-python
-python学习  爬虫练习
+# python学习
+
+> * 抓取外卖网站附近外卖上家图片
+> * 抓取招聘网站职位信息
+> * 将数据写入Excel
